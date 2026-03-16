@@ -1,0 +1,25 @@
+{
+  "name": "attar_hacks",
+  "version": "1.0.0",
+  "description": "let's do cool stuff",
+  "homepage": "https://github.com/attardechanel-glock/attar_hacks#readme",
+  "bugs": {
+    "url": "https://github.com/attardechanel-glock/attar_hacks/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://attardechanel-glock@github.com/attardechanel-glock/attar_hacks.git"
+  },
+  "license": "ISC",
+  "author": "Attar De Channel",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jsonfile": "^6.2.0",
+    "moment": "^2.30.1",
+    "simple-git": "^3.33.0"
+  }
+}
